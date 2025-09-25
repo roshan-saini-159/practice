@@ -19,6 +19,7 @@ int main(){
     rec1.length = 10;
     rec1.breadth = 20;
 
+
     areaOfRectangle(rec1);
 
     rectangle rec2;
